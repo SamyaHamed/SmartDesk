@@ -1,5 +1,4 @@
 # SmartDesk
->The SmartDesk prototype showcasing its modular parts including motorized drawers, touch screen interface, and integrated sensors.
 ![SmartDesk Preview](smartdesk_preview.jpg)
 
 
@@ -7,7 +6,7 @@
 
 The system addresses the limitations of conventional desks by offering **dynamic adjustments** and **smart environmental responses**, ensuring a highly customizable and healthy working environment.
 
----
+
 
 ## 🚀 Key Features
 
@@ -57,7 +56,7 @@ The system addresses the limitations of conventional desks by offering **dynamic
   - Shuts down all systems.
   - Triggers red light and audible alert.
 
----
+
 
 ## 🧠 System Architecture
 
@@ -92,7 +91,7 @@ The system addresses the limitations of conventional desks by offering **dynamic
   - Stores user profiles, desk settings, drawer logs.
   - Syncs data between ESP32 and mobile app.
 
----
+
 
 ## 🔄 Workflow Summary
 
@@ -125,7 +124,7 @@ The system addresses the limitations of conventional desks by offering **dynamic
    - Auto-on in dark environments using LDR.
    - Manual override from display.
 
----
+
 
 ## 🧰 Installation and Setup
 
@@ -151,19 +150,18 @@ The system addresses the limitations of conventional desks by offering **dynamic
 - Connects to the same Firebase project.
 - Provides real-time status and control options.
 
----
+
 
 ## 👨‍🏫 Supervisors & Authors
 
 ### 👥 Authors
-- **Eman Abd Alaziz**  
-- **Samya Hamed**
+- [**Eman Abd Alaziz**](mailto:abdalazizeman9224@gmail.com)  
+- [**Samya Hamed**](mailto:samyahamed22@gmail.com)
 
 ### 🎓 Supervisor
 - **Dr. Emad Natsheh**
 
 
----
 
 ## 🙏 Acknowledgments
 We extend our sincere gratitude to our supervisor **Dr. Emad Natsheh** for his continuous support and valuable insights throughout this project.
