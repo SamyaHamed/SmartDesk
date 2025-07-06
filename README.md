@@ -1,5 +1,5 @@
 # SmartDesk
-
+>The SmartDesk prototype showcasing its modular parts including motorized drawers, touch screen interface, and integrated sensors.
 ![SmartDesk Preview](smartdesk_preview.jpg)
 
 
