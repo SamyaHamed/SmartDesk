@@ -3,8 +3,6 @@
 ![SmartDesk Preview](smartdesk_preview.jpg)
 
 
-
-## 🧩 Project Overview
 **SmartDesk** is a graduation project developed to create an intelligent, ergonomic, and adaptable workspace system. In response to the growing trends of remote work and the increasing focus on public health, this project aims to revolutionize traditional office furniture by integrating advanced technology to enhance user **comfort**, **productivity**, and **safety**.
 
 The system addresses the limitations of conventional desks by offering **dynamic adjustments** and **smart environmental responses**, ensuring a highly customizable and healthy working environment.
