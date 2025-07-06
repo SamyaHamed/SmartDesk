@@ -168,6 +168,3 @@ We extend our sincere gratitude to our supervisor **Dr. Emad Natsheh** for his c
 
 Thanks to the **Computer Engineering Department** at **An-Najah National University** for the technical foundation and encouragement.
 
----
-
-## 📂 Repository Contents
