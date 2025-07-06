@@ -1,4 +1,7 @@
-# SmartDesk: An Intelligent and Ergonomic Workspace System
+# SmartDesk
+
+![SmartDesk Preview](smartdesk_preview.jpg)
+
 
 
 ## 🧩 Project Overview
