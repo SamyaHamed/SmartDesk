@@ -1,5 +1,6 @@
 # SmartDesk: An Intelligent and Ergonomic Workspace System
 
+
 ## 🧩 Project Overview
 **SmartDesk** is a graduation project developed to create an intelligent, ergonomic, and adaptable workspace system. In response to the growing trends of remote work and the increasing focus on public health, this project aims to revolutionize traditional office furniture by integrating advanced technology to enhance user **comfort**, **productivity**, and **safety**.
 
